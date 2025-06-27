@@ -3789,7 +3789,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "littleapps": "siaom550.github.io/littleapps"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
